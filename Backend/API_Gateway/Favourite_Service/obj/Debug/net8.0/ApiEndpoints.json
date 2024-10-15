@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "Favourite_Service.Controllers.FavouriteController",
+    "Method": "AddToFavourites",
+    "RelativePath": "api/Favourite",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "item",
+        "Type": "Favourite_Service.Models.FavouriteItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Favourite_Service.Controllers.FavouriteController",
+    "Method": "GetFavourites",
+    "RelativePath": "api/Favourite/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Favourite_Service.Controllers.FavouriteController",
+    "Method": "DeleteFavourite",
+    "RelativePath": "api/Favourite/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Favourite_Service.Controllers.FavouriteController",
+    "Method": "Health",
+    "RelativePath": "api/Favourite/health",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

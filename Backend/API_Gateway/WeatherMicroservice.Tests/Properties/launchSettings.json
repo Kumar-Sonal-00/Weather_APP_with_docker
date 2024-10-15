@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WeatherMicroservice.Tests": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

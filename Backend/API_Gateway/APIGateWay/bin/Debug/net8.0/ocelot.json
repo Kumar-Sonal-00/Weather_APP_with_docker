@@ -1,0 +1,125 @@
+{
+  "Routes": [
+    //HealthCheck
+    {
+      "DownstreamPathTemplate": "/apigateway/health",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5249
+        }
+      ],
+      "UpstreamPathTemplate": "/apigateway/health",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    //REGISTRATION
+    {
+      "DownstreamPathTemplate": "/api/User",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5200
+        }
+      ],
+      "UpstreamPathTemplate": "/apigateway/User",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+
+    //AuthenticationService
+    {
+      "DownstreamPathTemplate": "/api/Auth/login",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5086
+        }
+      ],
+      "UpstreamPathTemplate": "/apigateway/Auth/login",
+      "UpstreamHttpMethod": [ "POST", "OPTIONS" ]
+    },
+
+    //WEATHER
+    {
+      "DownstreamPathTemplate": "/api/geocoding/{city}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 22769
+        }
+      ],
+      "UpstreamPathTemplate": "/geocoding/{city}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/weather/{city}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 22769
+        }
+      ],
+      "UpstreamPathTemplate": "/weather/{city}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+
+    //FAVOURITES
+    {
+      "DownstreamPathTemplate": "/api/favourite",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ],
+      "UpstreamPathTemplate": "/favourite",
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "JwtBearer",
+        "AllowedScopes": []
+      },
+      "UpstreamHttpMethod": [ "POST", "OPTIONS" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/favourite/{email}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ],
+      "UpstreamPathTemplate": "/favourite/{email}",
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "JwtBearer",
+        "AllowedScopes": []
+      },
+      "UpstreamHttpMethod": [ "GET", "OPTIONS" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/favourite/{Id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ],
+      "UpstreamPathTemplate": "/favourite/{Id}",
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "JwtBearer",
+        "AllowedScopes": []
+      },
+      "UpstreamHttpMethod": [ "DELETE" ]
+    }
+  ],
+
+
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:5249" // Base URL for the API Gateway
+  }
+}

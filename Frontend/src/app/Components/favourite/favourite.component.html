@@ -1,0 +1,29 @@
+<app-header></app-header>
+
+<div class="main">
+  <h3 style="color:white;">Your Favorite Cities</h3>
+  <div class="city-grid">
+    <mat-card *ngFor="let city of favoriteCities" class="city-card">
+      <mat-card-header class="centered-header">
+        <mat-card-title class="poppins-font"><b>{{ city }}</b></mat-card-title>
+        <mat-card-subtitle class="poppins-font">{{ (weatherDataMap[city]?.weatherDescription) | titlecase }}</mat-card-subtitle>
+      </mat-card-header>
+      <mat-card-content>
+        <div class="weather-info" *ngIf="weatherDataMap[city]">
+          <img [src]="weatherDataMap[city]?.weatherIcon" alt="Weather Icon" class="weather-icon">
+          <div class="weather-details">
+            <p><strong>Temperature:</strong> {{ weatherDataMap[city]?.temperature | number:'1.1-1' }}°C</p>
+            <p><strong>Humidity:</strong> {{ weatherDataMap[city]?.humidity }}%</p>
+            <p><strong>Wind Speed:</strong> {{ weatherDataMap[city]?.windSpeed }} m/s</p>
+            <p><strong>Pressure:</strong> {{ weatherDataMap[city]?.pressure }} hPa</p>
+          </div>
+        </div>
+      </mat-card-content>
+      <div class="remove-button-container poppins-font">
+        <button mat-raised-button  class="remove-button" (click)="removeCity(city)">
+          Remove
+        </button>
+      </div>
+    </mat-card>
+  </div>
+</div>

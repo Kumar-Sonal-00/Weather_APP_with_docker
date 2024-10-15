@@ -1,0 +1,62 @@
+<app-header></app-header>
+  
+<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+<div class="main">
+  <div class="container" *ngIf="callingFromParent == false">
+    <div class="search-box">
+      <i class='bx bxs-map'></i>
+      <input type="text" placeholder="Search city" [(ngModel)]="searchedCity" (keydown.enter)="searchWeather()">
+      <button class="bx bx-search" (click)="searchWeather()"></button>
+    </div>  
+    <br>
+    
+    <div *ngIf="!isSearched && !weatherData && !error" class="placeholder-image">
+      <section class="section-message poppins-font" >
+        <img src="../../../assets/search-city.png">
+        <div>
+          <h1><b>Search City</b></h1>
+          <h4 class="poppins-font">
+            Find out the weather condition of the city
+          </h4>
+        </div>
+      </section>
+    </div>
+
+    <div class="weather-container" *ngIf="weatherData">
+      <mat-card class="weather-card">
+        <mat-card-header class="centered-header">
+          <mat-card-title class="poppins-font"><b>{{ weatherData.name }}</b></mat-card-title>
+          <mat-card-subtitle class="poppins-font">{{ weatherData.weather[0].description | titlecase }}</mat-card-subtitle>
+        </mat-card-header>
+        <mat-card-content>
+          <div class="weather-info">
+            <img [src]="'http://openweathermap.org/img/wn/' + weatherData.weather[0].icon + '@2x.png'" alt="Weather Icon" class="weather-icon">
+            <div class="weather-details poppins-font">
+              <p><strong style="color: black;">Temperature:</strong> {{ weatherData.main.temp | number:'1.1-1' }}°C</p>
+              <p><strong style="color: black;">Humidity:</strong> {{ weatherData.main.humidity }}%</p>
+              <p><strong style="color: black;">Wind Speed:</strong> {{ weatherData.wind.speed }} m/s</p>
+              <p><strong style="color: black;">Pressure:</strong> {{ weatherData.main.pressure }} hPa</p>
+            </div>
+          </div>
+          <div class="button-container poppins-font">
+            <button mat-raised-button (click)="addToFavorites(weatherData.name, email)" *ngIf="callingFromParent==false">Add to favourites</button>
+          </div>
+        </mat-card-content>
+      </mat-card>
+    </div>
+
+    <div *ngIf="error" class="placeholder-image">
+      <section class="section-message poppins-font">
+        <img src="../../../assets/not-found.png">
+        <div>
+          <h1> <b>No city found!</b></h1>
+          <h4 class="poppins-font">
+            <!-- Find out the weather condition of the city -->
+             Please enter a valid city
+          </h4>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>

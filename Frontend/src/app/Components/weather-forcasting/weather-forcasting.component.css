@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/*BODY CSS*/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins","sans-serif";
+}
+
+.main {
+  background-image: url('../../../assets/bg.jpg');
+  background-size: cover; 
+  background-position: center; 
+  height: 100vh; 
+  display: flex; 
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center; 
+}
+
+.main::before{
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100dvh;
+  background: rgba(0, 0, 0, 0.45);
+  backdrop-filter: blur(15px);
+}
+
+.poppins-font{
+  font-family: "Poppins","sans-serif";
+  color: #fff;
+}
+
+.container{
+  position: relative;
+  width: 400px;
+  height: 370px;
+  z-index: 1;
+  border-radius: 16px;
+  padding: 20px;
+  background: linear-gradient(
+    to top, rgb(0, 0, 0, 0.15),
+    rgb(255, 255, 255, 0.15)
+  );
+  backdrop-filter: blur(100px);
+}
+
+.search-box{
+  position: relative;
+  width: 100%;
+  height:50px;
+  display:flex;
+  align-items: center;
+  background: rgb(0, 0, 0, 0.15);
+  border-radius: 10px;
+}
+
+.search-box:focus{
+  border: 3px solid rgb(0, 0, 0, 0.15);
+}
+
+.search-box::placeholder{
+  color: rgb(255, 255, 255, 0.75);
+}
+
+.search-box i {
+  position: absolute;
+  left: 10px;
+  font-size: 28px;
+  color: #fff;
+  }
+
+.search-box input{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  border: 2px solid rgba(255,255,255,.2);
+  outline:none;
+  border-radius: 10px;
+  font-size: 22px;
+  color: #fff;
+  font-weight: 500;
+  text-transform: uppercase;
+  padding: 0 48px 0 42px;
+}
+
+.search-box input::placeholder{
+  color: #fff;
+  text-transform: capitalize;
+}
+
+.search-box button{
+  position:absolute;
+  right: 0;
+  width: 40px;
+  height: 100%;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 28px;
+  color: #fff;
+  cursor: pointer;
+  transform: translateY(-15%);
+}
+
+/* CSS FOR DEFAULT SEARCH AND NO SEARCH*/
+.section-message {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.section-message img{
+  width: 170px;
+  height: 170px;
+}
+
+/* CSS FOR WEATHER CARD */
+.weather-container {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  flex: 1; 
+  width: 100%; 
+  margin: 0;
+}
+
+.weather-card {
+  padding: 0px;
+  border-radius: 8px; 
+  max-width: 400px;
+  width: 100%;
+  background: none;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); 
+}
+
+.centered-header {
+  display: flex;
+  flex-direction: column; /* Align items vertically */
+  align-items: center; /* Center items horizontally */
+  text-align: center; /* Center text inside items */
+}
+
+.weather-info {
+  display: flex;
+  align-items: center; /* Center items vertically */
+  justify-content: center; /* Center items horizontally */
+  gap: 20px; /* Space between image and details */
+  margin: 0 0; 
+  margin-top: 10px;
+  margin-bottom: -10px;
+}
+
+.weather-icon {
+  width: 100px; /* Set a specific width for the icon */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.weather-details p {
+  margin: 0;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center; /* Center buttons horizontally */
+  gap: 20px; /* Space between buttons */
+  margin: 20px 0;
+}
+
+.button-container button {
+  background-color: rgba(255, 255, 255, 0.6); /* Faded white background */
+  color: black; 
+  border: none; /* Remove default border */
+  border-radius: 4px; 
+  padding: 10px 20px; 
+  box-shadow: 0 2px 5px rgba(255, 255, 255, 0.2); /* Soft glow effect */
+  transition: background-color 0.3s, box-shadow 0.3s; /* Smooth transition */
+}
+
+.button-container button:hover {
+  background-color: rgba(255, 255, 255, 0.9); /* Slightly brighter on hover */
+  box-shadow: 0 2px 10px rgba(255, 255, 255, 0.5); /* Increased glow on hover */
+}
+
+button {
+  margin-top: 16px;
+  margin-right: 8px;
+  background-color: #1f4c701a; 
+  color: white;
+  cursor: pointer;
+}
+
+/*RESPONSIVE*/
+@media (max-width: 500px) {
+  .weather-icon {
+    width: 60px;
+    height: 60px;
+  }
+
+  .weather-card {
+    padding: 12px; 
+  }
+
+  button {
+    margin-top: 12px; 
+    margin-right: 4px; 
+  }
+}

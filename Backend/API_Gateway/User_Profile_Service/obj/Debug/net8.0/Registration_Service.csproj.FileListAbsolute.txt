@@ -1,0 +1,627 @@
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\appsettings.json
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\Registration_Service.exe
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\Registration_Service.deps.json
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\Registration_Service.runtimeconfig.json
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\Registration_Service.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\Registration_Service.pdb
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\Confluent.Kafka.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\DnsClient.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\Snappier.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\linux-x64\native\centos8-librdkafka.so
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\win-x64\native\zstd.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\win-x86\native\zstd.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\obj\Debug\net8.0\Registration_Service.csproj.AssemblyReference.cache
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\obj\Debug\net8.0\Registration_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\obj\Debug\net8.0\Registration_Service.AssemblyInfoInputs.cache
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\obj\Debug\net8.0\Registration_Service.AssemblyInfo.cs
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\obj\Debug\net8.0\Registration_Service.csproj.CoreCompileInputs.cache
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\obj\Debug\net8.0\Registration_Service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\obj\Debug\net8.0\Registration_Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\obj\Debug\net8.0\staticwebassets\msbuild.Registration_Service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\obj\Debug\net8.0\staticwebassets\msbuild.build.Registration_Service.props
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Registration_Service.props
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Registration_Service.props
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\obj\Debug\net8.0\scopedcss\bundle\Registration_Service.styles.css
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\obj\Debug\net8.0\Registra.2279B228.Up2Date
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\obj\Debug\net8.0\Registration_Service.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\obj\Debug\net8.0\refint\Registration_Service.dll
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\obj\Debug\net8.0\Registration_Service.pdb
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\obj\Debug\net8.0\Registration_Service.genruntimeconfig.cache
+C:\Users\zadmin\Downloads\sprint\Registartion_Service\obj\Debug\net8.0\ref\Registration_Service.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\appsettings.Development.json
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\appsettings.json
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\Registration_Service.exe
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\Registration_Service.deps.json
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\Registration_Service.runtimeconfig.json
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\Registration_Service.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\Registration_Service.pdb
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\Confluent.Kafka.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\DnsClient.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\SharpCompress.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\Snappier.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\ZstdSharp.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-arm64\native\librdkafka.so
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-x64\native\centos8-librdkafka.so
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-x64\native\librdkafka.so
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\libcurl.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\librdkafka.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\zstd.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\libcurl.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\librdkafka.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\libssl-3.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\vcruntime140.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\zstd.dll
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\CGI\Project\User_Profile_Service\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\CGI\Project\User_Profile_Service\obj\Debug\net8.0\Registration_Service.csproj.AssemblyReference.cache
+C:\CGI\Project\User_Profile_Service\obj\Debug\net8.0\Registration_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\CGI\Project\User_Profile_Service\obj\Debug\net8.0\Registration_Service.AssemblyInfoInputs.cache
+C:\CGI\Project\User_Profile_Service\obj\Debug\net8.0\Registration_Service.AssemblyInfo.cs
+C:\CGI\Project\User_Profile_Service\obj\Debug\net8.0\Registration_Service.csproj.CoreCompileInputs.cache
+C:\CGI\Project\User_Profile_Service\obj\Debug\net8.0\Registration_Service.MvcApplicationPartsAssemblyInfo.cs
+C:\CGI\Project\User_Profile_Service\obj\Debug\net8.0\Registration_Service.MvcApplicationPartsAssemblyInfo.cache
+C:\CGI\Project\User_Profile_Service\obj\Debug\net8.0\staticwebassets.build.json
+C:\CGI\Project\User_Profile_Service\obj\Debug\net8.0\staticwebassets.development.json
+C:\CGI\Project\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.Registration_Service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CGI\Project\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.build.Registration_Service.props
+C:\CGI\Project\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Registration_Service.props
+C:\CGI\Project\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Registration_Service.props
+C:\CGI\Project\User_Profile_Service\obj\Debug\net8.0\staticwebassets.pack.json
+C:\CGI\Project\User_Profile_Service\obj\Debug\net8.0\scopedcss\bundle\Registration_Service.styles.css
+C:\CGI\Project\User_Profile_Service\obj\Debug\net8.0\Registra.2279B228.Up2Date
+C:\CGI\Project\User_Profile_Service\obj\Debug\net8.0\Registration_Service.dll
+C:\CGI\Project\User_Profile_Service\obj\Debug\net8.0\refint\Registration_Service.dll
+C:\CGI\Project\User_Profile_Service\obj\Debug\net8.0\Registration_Service.pdb
+C:\CGI\Project\User_Profile_Service\obj\Debug\net8.0\Registration_Service.genruntimeconfig.cache
+C:\CGI\Project\User_Profile_Service\obj\Debug\net8.0\ref\Registration_Service.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\appsettings.Development.json
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\appsettings.json
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\Registration_Service.exe
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\Registration_Service.deps.json
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\Registration_Service.runtimeconfig.json
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\Registration_Service.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\Registration_Service.pdb
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\Confluent.Kafka.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\DnsClient.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\SharpCompress.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\Snappier.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\ZstdSharp.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-arm64\native\librdkafka.so
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-x64\native\alpine-librdkafka.so
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-x64\native\centos8-librdkafka.so
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-x64\native\librdkafka.so
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\osx-arm64\native\librdkafka.dylib
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\osx-x64\native\librdkafka.dylib
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\libcurl.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\librdkafka.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\librdkafkacpp.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\libssl-3-x64.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\zstd.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\libcrypto-3.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\libcurl.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\librdkafka.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\librdkafkacpp.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\libssl-3.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\vcruntime140.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\zstd.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\obj\Debug\net8.0\Registration_Service.csproj.AssemblyReference.cache
+D:\Project Weather\MICROSERVICES\User_Profile_Service\obj\Debug\net8.0\Registration_Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Weather\MICROSERVICES\User_Profile_Service\obj\Debug\net8.0\Registration_Service.AssemblyInfoInputs.cache
+D:\Project Weather\MICROSERVICES\User_Profile_Service\obj\Debug\net8.0\Registration_Service.AssemblyInfo.cs
+D:\Project Weather\MICROSERVICES\User_Profile_Service\obj\Debug\net8.0\Registration_Service.csproj.CoreCompileInputs.cache
+D:\Project Weather\MICROSERVICES\User_Profile_Service\obj\Debug\net8.0\Registration_Service.MvcApplicationPartsAssemblyInfo.cs
+D:\Project Weather\MICROSERVICES\User_Profile_Service\obj\Debug\net8.0\Registration_Service.MvcApplicationPartsAssemblyInfo.cache
+D:\Project Weather\MICROSERVICES\User_Profile_Service\obj\Debug\net8.0\staticwebassets.build.json
+D:\Project Weather\MICROSERVICES\User_Profile_Service\obj\Debug\net8.0\staticwebassets.development.json
+D:\Project Weather\MICROSERVICES\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.Registration_Service.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project Weather\MICROSERVICES\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.build.Registration_Service.props
+D:\Project Weather\MICROSERVICES\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Registration_Service.props
+D:\Project Weather\MICROSERVICES\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Registration_Service.props
+D:\Project Weather\MICROSERVICES\User_Profile_Service\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Project Weather\MICROSERVICES\User_Profile_Service\obj\Debug\net8.0\scopedcss\bundle\Registration_Service.styles.css
+D:\Project Weather\MICROSERVICES\User_Profile_Service\obj\Debug\net8.0\Registra.2279B228.Up2Date
+D:\Project Weather\MICROSERVICES\User_Profile_Service\obj\Debug\net8.0\Registration_Service.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\obj\Debug\net8.0\refint\Registration_Service.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\obj\Debug\net8.0\Registration_Service.pdb
+D:\Project Weather\MICROSERVICES\User_Profile_Service\obj\Debug\net8.0\Registration_Service.genruntimeconfig.cache
+D:\Project Weather\MICROSERVICES\User_Profile_Service\obj\Debug\net8.0\ref\Registration_Service.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project Weather\MICROSERVICES\User_Profile_Service\obj\Debug\net8.0\Registration_Service.sourcelink.json
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\appsettings.json
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.exe
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.deps.json
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.runtimeconfig.json
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.pdb
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\Confluent.Kafka.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\DnsClient.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\Snappier.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-x64\native\centos8-librdkafka.so
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\zstd.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\zstd.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.csproj.AssemblyReference.cache
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.AssemblyInfoInputs.cache
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.AssemblyInfo.cs
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.csproj.CoreCompileInputs.cache
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.Registration_Service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.build.Registration_Service.props
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Registration_Service.props
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Registration_Service.props
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\obj\Debug\net8.0\scopedcss\bundle\Registration_Service.styles.css
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\obj\Debug\net8.0\Registra.2279B228.Up2Date
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\obj\Debug\net8.0\refint\Registration_Service.dll
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.pdb
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.genruntimeconfig.cache
+C:\Users\hshem\Desktop\Backend\User_Profile_Service\obj\Debug\net8.0\ref\Registration_Service.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\appsettings.json
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.exe
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.deps.json
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.runtimeconfig.json
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.pdb
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\Confluent.Kafka.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\DnsClient.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\Snappier.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-x64\native\centos8-librdkafka.so
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\zstd.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\zstd.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.csproj.AssemblyReference.cache
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.AssemblyInfoInputs.cache
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.AssemblyInfo.cs
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.csproj.CoreCompileInputs.cache
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.Registration_Service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.build.Registration_Service.props
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Registration_Service.props
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Registration_Service.props
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\obj\Debug\net8.0\scopedcss\bundle\Registration_Service.styles.css
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\obj\Debug\net8.0\Registra.2279B228.Up2Date
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\obj\Debug\net8.0\refint\Registration_Service.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.pdb
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.genruntimeconfig.cache
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\obj\Debug\net8.0\ref\Registration_Service.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\User_Profile_Service\bin\Debug\net8.0\Consul.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\appsettings.json
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.exe
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.deps.json
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.runtimeconfig.json
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.pdb
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Confluent.Kafka.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Consul.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\DnsClient.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Snappier.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-x64\native\centos8-librdkafka.so
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\zstd.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\zstd.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.csproj.AssemblyReference.cache
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.AssemblyInfoInputs.cache
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.AssemblyInfo.cs
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.csproj.CoreCompileInputs.cache
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.Registration_Service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.build.Registration_Service.props
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Registration_Service.props
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Registration_Service.props
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\scopedcss\bundle\Registration_Service.styles.css
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registra.2279B228.Up2Date
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\refint\Registration_Service.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.pdb
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.genruntimeconfig.cache
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\ref\Registration_Service.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\appsettings.Development.json
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\appsettings.json
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.exe
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.deps.json
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.runtimeconfig.json
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.pdb
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Confluent.Kafka.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Consul.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\DnsClient.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\SharpCompress.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Snappier.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\ZstdSharp.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-arm64\native\librdkafka.so
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-x64\native\centos8-librdkafka.so
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-x64\native\librdkafka.so
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\libcurl.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\librdkafka.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\zstd.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\libcurl.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\librdkafka.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\libssl-3.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\vcruntime140.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\zstd.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.csproj.AssemblyReference.cache
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.AssemblyInfoInputs.cache
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.AssemblyInfo.cs
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.csproj.CoreCompileInputs.cache
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.MvcApplicationPartsAssemblyInfo.cs
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.MvcApplicationPartsAssemblyInfo.cache
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets.build.json
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets.development.json
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.Registration_Service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.build.Registration_Service.props
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Registration_Service.props
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Registration_Service.props
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets.pack.json
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\scopedcss\bundle\Registration_Service.styles.css
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registra.2279B228.Up2Date
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\refint\Registration_Service.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.pdb
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.genruntimeconfig.cache
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\ref\Registration_Service.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\appsettings.Development.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\appsettings.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.exe
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.deps.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.runtimeconfig.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Registration_Service.pdb
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Confluent.Kafka.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Consul.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\DnsClient.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\SharpCompress.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Snappier.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\ZstdSharp.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-arm64\native\librdkafka.so
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-x64\native\alpine-librdkafka.so
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-x64\native\centos8-librdkafka.so
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux-x64\native\librdkafka.so
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\osx-arm64\native\librdkafka.dylib
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\osx-x64\native\librdkafka.dylib
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\libcurl.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\librdkafka.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\librdkafkacpp.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\libssl-3-x64.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x64\native\zstd.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\libcrypto-3.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\libcurl.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\librdkafka.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\librdkafkacpp.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\libssl-3.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\vcruntime140.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win-x86\native\zstd.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.csproj.AssemblyReference.cache
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.AssemblyInfoInputs.cache
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.AssemblyInfo.cs
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.csproj.CoreCompileInputs.cache
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.MvcApplicationPartsAssemblyInfo.cs
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.MvcApplicationPartsAssemblyInfo.cache
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets.build.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets.development.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.Registration_Service.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.build.Registration_Service.props
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Registration_Service.props
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Registration_Service.props
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\scopedcss\bundle\Registration_Service.styles.css
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registra.2279B228.Up2Date
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\refint\Registration_Service.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.pdb
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\Registration_Service.genruntimeconfig.cache
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\User_Profile_Service\obj\Debug\net8.0\ref\Registration_Service.dll

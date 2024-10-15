@@ -1,0 +1,210 @@
+.parent {
+  background-image: url('../../../assets/bg.jpg');
+  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh; 
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  position: relative; 
+  overflow: hidden; /* Prevents content from overflowing */
+  z-index: 0; /* Ensure main content is above the blur */
+}
+
+.parent::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%; 
+  background: rgba(0, 0, 0, 0.45); /* Semi-transparent overlay */
+  backdrop-filter: blur(15px); /* Apply the blur effect */
+  z-index: -1; /* Place it behind other content */
+}
+
+.register {
+  border: 2px solid white;
+  border-radius: 10px;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.15), rgba(255, 255, 255, 0.15));
+  backdrop-filter: blur(100px);
+  padding: 40px;
+  margin: 0 auto;
+  width: 300px;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.3), 0 0 10px rgba(0, 120, 255, 0.5); /* Soft highlights */
+  transition: box-shadow 0.3s ease;
+}
+
+.register:hover {
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.5), 0 0 20px rgba(0, 120, 255, 0.7); /* More pronounced highlights on hover */
+}
+
+.register h2 {
+  font-size: 2em;
+  color: #fff;
+  text-align: center; /* Center the heading */
+  margin-bottom: 40px; /* Space below the heading */
+}
+
+.register .inputBx {
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px; /* Increased margin between all fields */
+}
+
+.register .inputBx input {
+  position: relative;
+  width: 100%;
+  padding: 12px 20px;
+  background: transparent;
+  border: 2px solid #fff;
+  border-radius: 40px;
+  font-size: 1.2em;
+  color: #fff;
+  box-shadow: none;
+  outline: none;
+  text-align: center;
+}
+
+.register .inputBx input[type="submit"] {
+  width: 100%;
+  background: linear-gradient(45deg, #ff357a, #fff172);
+  border: none;
+  cursor: pointer;
+}
+
+.register .inputBx input::placeholder {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.register .links {
+  position: relative;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.register .links a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:first-child {
+  padding-right: 10px; /* Adjust the value as needed */
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.modal {
+  display: flex;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.register .inputBx input[type="button"] {
+  width: 80%;
+  padding: 12px; 
+  background: linear-gradient(45deg, #ff357a, #fff172); /* Gradient background */
+  border: none; /* Remove default border */
+  border-radius: 40px; 
+  color: #fff; 
+  font-size: 1.2em; /* Font size */
+  cursor: pointer; /* Pointer cursor on hover */
+  transition: background 0.3s ease; /* Smooth background transition */
+  margin-top: 10px; /* Reduced margin for closer buttons */
+}
+
+.register .inputBx input[type="button"]:hover {
+  background: linear-gradient(45deg, #fff172, #ff357a); /* Reverse gradient on hover */
+}
+
+/* General styles for toggle buttons */
+.toggle-password,
+.toggle-confirm-password {
+    position: absolute;
+    right: 10px; /* Adjust as necessary */
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #ffffff;
+    font-size: 16px;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10;
+}
+
+/* Additional hover effect */
+.toggle-password:hover,
+.toggle-confirm-password:hover {
+    color: #ffffff; /* Change to a darker shade for hover effect */
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .register {
+    padding: 30px; /* Adjust padding for smaller screens */
+    width: 90%; /* Allow the box to take more width */
+  }
+
+  .register h2 {
+    font-size: 1.5em; /* Reduce heading size */
+  }
+
+  .register .inputBx input {
+    font-size: 1em; /* Adjust input font size */
+  }
+
+  .register .inputBx input[type="submit"] {
+    padding: 10px; /* Adjust button padding */
+  }
+
+  .register .links {
+    flex-direction: column; /* Stack links vertically */
+    align-items: center; /* Center links */
+  }
+}
+
+@media (max-width: 480px) {
+  .register h2 {
+    font-size: 1.3em; /* Further reduce heading size */
+  }
+
+  .register .inputBx input {
+    font-size: 0.9em; /* Further adjust input font size */
+  }
+
+  .register .inputBx button {
+    font-size: 1em; /* Adjust button font size */
+  }
+}

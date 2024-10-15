@@ -1,0 +1,40 @@
+<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+<header>
+    <h1 class="logo">Weather App</h1>
+
+    <!-- Hamburger Menu Icon -->
+    <div class="hamburger" (click)="toggleMenu()">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+
+    <!-- Navigation Menu for not logged-in users -->
+    <nav [ngClass]="{'open': isMenuOpen}" *ngIf="!isLoggedIn">
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/login">Login</a></li>
+            <li><a href="/weather-forecast">Weather Forecast</a></li>
+            <li><a href="/favorites">Favourites</a></li>
+        </ul>
+    </nav>
+
+    <!-- Navigation Menu for logged-in users -->
+    <nav [ngClass]="{'open': isMenuOpen}" *ngIf="isLoggedIn" style="margin-right: -800px;">
+        <ul>
+            <li><a href="/home">Home</a></li>
+            <li><a href="/weather-forecast">Weather Forecast</a></li>
+            <li><a href="/favorites">Favourites</a></li>
+        </ul>
+    </nav>
+
+    <!-- User Dropdown (for logged-in users) -->
+    <div class="user-dropdown" *ngIf="isLoggedIn">
+        <i class='bx bxs-user' style="font-size: 30px; margin-top: 5px;"></i>
+        <div class="dropdown-content">
+            <p>{{ userEmail }}</p>
+            <button class="logout-button" (click)="logout()">Logout</button>
+        </div>
+    </div>
+</header>

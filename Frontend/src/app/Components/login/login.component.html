@@ -1,0 +1,29 @@
+<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+<div class="parent">
+  <div class="login">
+    <h2>Login</h2>
+    <div class="inputBx">
+        <input type="text" [(ngModel)]="loginObj.email" placeholder="Email id" (keydown.enter)="onLogin()">
+      </div>
+    
+    <div class="inputBx">
+      <input [type]="passwordVisible ? 'text' : 'password'" [(ngModel)]="loginObj.password" placeholder="Password"
+      (keydown.enter)="onLogin()">
+      <button type="button" class="toggle-password" (click)="togglePasswordVisibility()" aria-label="Toggle Password Visibility">
+          <i [class]="!passwordVisible ? 'bx bx-hide' : 'bx bx-show'"></i>
+      </button>
+    </div>
+
+    <div class="inputBx">
+      <input type="button" value="Log in" (click)="onLogin()">
+    </div>
+    <div class="inputBx">
+      <input type="button" value="reset" (click)="reset()">
+        </div>
+    
+    <div class="links">
+      <a>Don't have an account?</a><a href="/register">Sign up</a>
+    </div>
+  </div>
+</div>

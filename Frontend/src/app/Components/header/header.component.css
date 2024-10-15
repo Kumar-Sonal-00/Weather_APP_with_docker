@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(11, 37, 108);
+    color: white;
+    padding: 20px 30px;
+    font-family: "Poppins", sans-serif;
+    position: relative;
+}
+
+.logo {
+    margin: 0;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex; /* Flex by default */
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 20px;
+}
+
+nav ul li:last-child {
+    margin-right: 0;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    border: 2px solid white;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: white;
+    color: black;
+}
+
+/* Hamburger Menu Styles */
+.hamburger {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+    position: absolute;
+    top: 20px;
+    right: 60px;
+}
+
+.hamburger div {
+    width: 25px;
+    height: 3px;
+    background-color: white;
+    margin: 4px 0;
+    transition: all 0.3s ease;
+}
+
+/* User Dropdown */
+.user-dropdown {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    left: -100px; /* Adjusted for alignment with reduced width */
+    top: 40px;
+    background-color: rgba(249, 249, 249, 0.3); /* Lighter background color initially */
+    color: white;
+    min-width: 140px;
+    padding: 8px; 
+    border-radius: 8px; 
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2); /* Subtle shadow for a card-like look */
+    z-index: 1;
+    text-align: center;
+    transition: background-color 0.3s ease-in-out, opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+    opacity: 0;
+    transform: translateY(10px); 
+}
+
+.user-dropdown:hover .dropdown-content {
+    display: block;
+    opacity: 1;
+    transform: translateY(0); 
+}
+
+.dropdown-content p {
+    margin: 10px;
+    font-size: 14px;
+    text-decoration: underline; /* Add underline to email */
+    font-weight: bold;
+    color: white; /* Darker text color for contrast */
+}
+
+.dropdown-content button.logout-button {
+    background: linear-gradient(135deg, #7b4bff 0%, #ff6b6b 100%); /* Gradient transition color */
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: "Poppins", sans-serif;
+    margin: 10px 15px; /* Adds margin around the button */
+    transition: background 0.3s ease, transform 0.3s ease; /* Transition for background color and scale */
+}
+
+.dropdown-content button.logout-button:hover {
+    background: linear-gradient(135deg, #1e53ff59 0%, #4b99ff88 100%); /* Darker gradient on hover */
+    transform: scale(1.05); /* Slightly enlarges the button on hover */
+}
+
+/* Media Query for Small Devices */
+@media (max-width: 768px) {
+    /* Show the hamburger menu and hide the regular navbar links */
+    .hamburger {
+        display: flex;
+    }
+
+    nav ul {
+        display: none; /* Hide normal menu items */
+    }
+
+    /* Open dropdown menu when hamburger is clicked */
+    nav.open ul {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 60px;
+        right: 20px; /* Align dropdown to the right corner */
+        background-color: rgb(11, 37, 108);
+        padding: 0; /* Remove padding from the nav container */
+        z-index: 1000;
+        width: 200px;
+    }
+
+    nav.open ul li {
+        display: block;
+        text-align: left; /* Align buttons to the left inside dropdown */
+        width: 100%; /* Make each item take full width */
+        margin: 0; /* Remove margin to prevent gaps */
+    }
+
+    nav.open ul li a {
+        padding: 4px 6px; /* Adjust padding for dropdown items */
+        font-size: 16px;
+        width: 100%; /* Full width for each dropdown item */
+        display: block; /* Ensure each link is displayed as block */
+        box-sizing: border-box; /* Ensure border is within width */
+        border: 2px solid white; /* Move the border to the individual buttons */
+        margin: 5px 0; /* Add margin between buttons to prevent merging */
+        border-radius: 5px;
+        transition: padding 0.3s ease, font-size 0.3s ease;
+    }
+
+    nav ul li {
+        display: block; /* Stack nav items vertically */
+        margin-left: 0; /* Reset left margin for vertical layout */
+    }
+
+    /* Show user dropdown on small screens and position next to hamburger */
+    .user-dropdown {
+        display: inline-block; 
+        position: absolute;
+        top: 18px; 
+        right: 20px; 
+        z-index: 13; 
+        font-size: 2px;
+    }
+}

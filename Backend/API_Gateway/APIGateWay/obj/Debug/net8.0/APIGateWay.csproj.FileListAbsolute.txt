@@ -1,0 +1,404 @@
+C:\Capstone_Project\APIGateWay\APIGateWay\bin\Debug\net8.0\appsettings.Development.json
+C:\Capstone_Project\APIGateWay\APIGateWay\bin\Debug\net8.0\appsettings.json
+C:\Capstone_Project\APIGateWay\APIGateWay\bin\Debug\net8.0\ocelot.json
+C:\Capstone_Project\APIGateWay\APIGateWay\bin\Debug\net8.0\APIGateWay.exe
+C:\Capstone_Project\APIGateWay\APIGateWay\bin\Debug\net8.0\APIGateWay.deps.json
+C:\Capstone_Project\APIGateWay\APIGateWay\bin\Debug\net8.0\APIGateWay.runtimeconfig.json
+C:\Capstone_Project\APIGateWay\APIGateWay\bin\Debug\net8.0\APIGateWay.dll
+C:\Capstone_Project\APIGateWay\APIGateWay\bin\Debug\net8.0\APIGateWay.pdb
+C:\Capstone_Project\APIGateWay\APIGateWay\bin\Debug\net8.0\FluentValidation.dll
+C:\Capstone_Project\APIGateWay\APIGateWay\bin\Debug\net8.0\IPAddressRange.dll
+C:\Capstone_Project\APIGateWay\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Capstone_Project\APIGateWay\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Capstone_Project\APIGateWay\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Capstone_Project\APIGateWay\APIGateWay\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Capstone_Project\APIGateWay\APIGateWay\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Capstone_Project\APIGateWay\APIGateWay\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Capstone_Project\APIGateWay\APIGateWay\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Capstone_Project\APIGateWay\APIGateWay\bin\Debug\net8.0\Ocelot.dll
+C:\Capstone_Project\APIGateWay\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Capstone_Project\APIGateWay\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Capstone_Project\APIGateWay\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Capstone_Project\APIGateWay\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.AssemblyReference.cache
+C:\Capstone_Project\APIGateWay\APIGateWay\obj\Debug\net8.0\APIGateWay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capstone_Project\APIGateWay\APIGateWay\obj\Debug\net8.0\APIGateWay.AssemblyInfoInputs.cache
+C:\Capstone_Project\APIGateWay\APIGateWay\obj\Debug\net8.0\APIGateWay.AssemblyInfo.cs
+C:\Capstone_Project\APIGateWay\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.CoreCompileInputs.cache
+C:\Capstone_Project\APIGateWay\APIGateWay\obj\Debug\net8.0\APIGateWay.MvcApplicationPartsAssemblyInfo.cs
+C:\Capstone_Project\APIGateWay\APIGateWay\obj\Debug\net8.0\APIGateWay.MvcApplicationPartsAssemblyInfo.cache
+C:\Capstone_Project\APIGateWay\APIGateWay\obj\Debug\net8.0\staticwebassets.build.json
+C:\Capstone_Project\APIGateWay\APIGateWay\obj\Debug\net8.0\staticwebassets.development.json
+C:\Capstone_Project\APIGateWay\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.APIGateWay.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Capstone_Project\APIGateWay\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.build.APIGateWay.props
+C:\Capstone_Project\APIGateWay\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIGateWay.props
+C:\Capstone_Project\APIGateWay\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIGateWay.props
+C:\Capstone_Project\APIGateWay\APIGateWay\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Capstone_Project\APIGateWay\APIGateWay\obj\Debug\net8.0\scopedcss\bundle\APIGateWay.styles.css
+C:\Capstone_Project\APIGateWay\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.Up2Date
+C:\Capstone_Project\APIGateWay\APIGateWay\obj\Debug\net8.0\APIGateWay.dll
+C:\Capstone_Project\APIGateWay\APIGateWay\obj\Debug\net8.0\refint\APIGateWay.dll
+C:\Capstone_Project\APIGateWay\APIGateWay\obj\Debug\net8.0\APIGateWay.pdb
+C:\Capstone_Project\APIGateWay\APIGateWay\obj\Debug\net8.0\APIGateWay.genruntimeconfig.cache
+C:\Capstone_Project\APIGateWay\APIGateWay\obj\Debug\net8.0\ref\APIGateWay.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\appsettings.Development.json
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\appsettings.json
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\ocelot.json
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\APIGateWay.exe
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\APIGateWay.deps.json
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\APIGateWay.runtimeconfig.json
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\APIGateWay.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\APIGateWay.pdb
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\FluentValidation.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\IPAddressRange.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\Ocelot.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.AssemblyReference.cache
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\obj\Debug\net8.0\APIGateWay.GeneratedMSBuildEditorConfig.editorconfig
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\obj\Debug\net8.0\APIGateWay.AssemblyInfoInputs.cache
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\obj\Debug\net8.0\APIGateWay.AssemblyInfo.cs
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.CoreCompileInputs.cache
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\obj\Debug\net8.0\APIGateWay.MvcApplicationPartsAssemblyInfo.cs
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\obj\Debug\net8.0\APIGateWay.MvcApplicationPartsAssemblyInfo.cache
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\obj\Debug\net8.0\staticwebassets.build.json
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\obj\Debug\net8.0\staticwebassets.development.json
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.APIGateWay.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.build.APIGateWay.props
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIGateWay.props
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIGateWay.props
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\obj\Debug\net8.0\staticwebassets.pack.json
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\obj\Debug\net8.0\scopedcss\bundle\APIGateWay.styles.css
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.Up2Date
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\obj\Debug\net8.0\APIGateWay.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\obj\Debug\net8.0\refint\APIGateWay.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\obj\Debug\net8.0\APIGateWay.pdb
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\obj\Debug\net8.0\APIGateWay.genruntimeconfig.cache
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\obj\Debug\net8.0\ref\APIGateWay.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\CGI\Project\APIGateWay\APIGateWay\APIGateWay\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\appsettings.Development.json
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\appsettings.json
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\ocelot.json
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.exe
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.deps.json
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.runtimeconfig.json
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.pdb
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\FluentValidation.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\IPAddressRange.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\Ocelot.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.AssemblyReference.cache
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.AssemblyInfoInputs.cache
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.AssemblyInfo.cs
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.CoreCompileInputs.cache
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.MvcApplicationPartsAssemblyInfo.cs
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.MvcApplicationPartsAssemblyInfo.cache
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets.build.json
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets.development.json
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.APIGateWay.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.build.APIGateWay.props
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIGateWay.props
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIGateWay.props
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\obj\Debug\net8.0\scopedcss\bundle\APIGateWay.styles.css
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.Up2Date
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\obj\Debug\net8.0\refint\APIGateWay.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.pdb
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.genruntimeconfig.cache
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\obj\Debug\net8.0\ref\APIGateWay.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\bin\Debug\net8.0\JWT.dll
+D:\Project Weather\MICROSERVICES\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.sourcelink.json
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\appsettings.json
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\ocelot.json
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.exe
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.deps.json
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.runtimeconfig.json
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.pdb
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\JWT.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Ocelot.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.AssemblyReference.cache
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.AssemblyInfoInputs.cache
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.AssemblyInfo.cs
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.CoreCompileInputs.cache
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.APIGateWay.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.build.APIGateWay.props
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIGateWay.props
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIGateWay.props
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\scopedcss\bundle\APIGateWay.styles.css
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.Up2Date
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\refint\APIGateWay.dll
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.pdb
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.genruntimeconfig.cache
+C:\Users\hshem\Desktop\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\ref\APIGateWay.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\appsettings.json
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\ocelot.json
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.exe
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.deps.json
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.runtimeconfig.json
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.pdb
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\JWT.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Ocelot.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.AssemblyReference.cache
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.AssemblyInfoInputs.cache
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.AssemblyInfo.cs
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.CoreCompileInputs.cache
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.APIGateWay.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.build.APIGateWay.props
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIGateWay.props
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIGateWay.props
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\scopedcss\bundle\APIGateWay.styles.css
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.Up2Date
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\refint\APIGateWay.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.pdb
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.genruntimeconfig.cache
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\ref\APIGateWay.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Consul.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\appsettings.json
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\ocelot.json
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.exe
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.deps.json
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.runtimeconfig.json
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.pdb
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Consul.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\JWT.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Ocelot.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.AssemblyReference.cache
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.AssemblyInfoInputs.cache
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.AssemblyInfo.cs
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.CoreCompileInputs.cache
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.APIGateWay.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.build.APIGateWay.props
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIGateWay.props
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIGateWay.props
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\scopedcss\bundle\APIGateWay.styles.css
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.Up2Date
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\refint\APIGateWay.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.pdb
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.genruntimeconfig.cache
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\ref\APIGateWay.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\appsettings.Development.json
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\appsettings.json
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\ocelot.json
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.exe
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.deps.json
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.runtimeconfig.json
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.pdb
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Consul.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\FluentValidation.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\IPAddressRange.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\JWT.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Ocelot.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.AssemblyReference.cache
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.GeneratedMSBuildEditorConfig.editorconfig
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.AssemblyInfoInputs.cache
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.AssemblyInfo.cs
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.CoreCompileInputs.cache
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.MvcApplicationPartsAssemblyInfo.cs
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.MvcApplicationPartsAssemblyInfo.cache
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets.build.json
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets.development.json
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.APIGateWay.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.build.APIGateWay.props
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIGateWay.props
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIGateWay.props
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets.pack.json
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\scopedcss\bundle\APIGateWay.styles.css
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.Up2Date
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\refint\APIGateWay.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.pdb
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.genruntimeconfig.cache
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\ref\APIGateWay.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\appsettings.Development.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\appsettings.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\ocelot.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.exe
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.deps.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.runtimeconfig.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\APIGateWay.pdb
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Consul.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\FluentValidation.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\IPAddressRange.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\JWT.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Ocelot.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.AssemblyReference.cache
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.AssemblyInfoInputs.cache
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.AssemblyInfo.cs
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.CoreCompileInputs.cache
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.MvcApplicationPartsAssemblyInfo.cs
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.MvcApplicationPartsAssemblyInfo.cache
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets.build.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets.development.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.APIGateWay.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.build.APIGateWay.props
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIGateWay.props
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIGateWay.props
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\scopedcss\bundle\APIGateWay.styles.css
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.csproj.Up2Date
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\refint\APIGateWay.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.pdb
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\APIGateWay.genruntimeconfig.cache
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\APIGateWay\obj\Debug\net8.0\ref\APIGateWay.dll

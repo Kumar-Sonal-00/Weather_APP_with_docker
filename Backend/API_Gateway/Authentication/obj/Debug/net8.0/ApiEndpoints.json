@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Authentication.Controllers.AuthController",
+    "Method": "Health",
+    "RelativePath": "api/Auth/health",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Authentication.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "Authentication.Models.User_Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "WeatherMicroservice.Controllers.GeocodingController",
+    "Method": "GetCoordinates",
+    "RelativePath": "api/Geocoding/{city}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WeatherMicroservice.Models.GeocodingResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WeatherMicroservice.Controllers.WeatherController",
+    "Method": "GetWeather",
+    "RelativePath": "api/Weather/{city}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeatherMicroservice.Controllers.WeatherController",
+    "Method": "Health",
+    "RelativePath": "api/Weather/health",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

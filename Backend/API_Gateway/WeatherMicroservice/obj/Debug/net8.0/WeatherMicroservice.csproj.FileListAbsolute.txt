@@ -1,0 +1,395 @@
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\bin\Debug\net8.0\appsettings.Development.json
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\bin\Debug\net8.0\appsettings.json
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.exe
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.deps.json
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.runtimeconfig.json
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.dll
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.pdb
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.csproj.AssemblyReference.cache
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.AssemblyInfoInputs.cache
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.AssemblyInfo.cs
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.csproj.CoreCompileInputs.cache
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.build.json
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.development.json
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.WeatherMicroservice.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.build.WeatherMicroservice.props
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WeatherMicroservice.props
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WeatherMicroservice.props
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\scopedcss\bundle\WeatherMicroservice.styles.css
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherM.7A2F200A.Up2Date
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.dll
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\refint\WeatherMicroservice.dll
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.pdb
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.genruntimeconfig.cache
+C:\Project\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\ref\WeatherMicroservice.dll
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.exe
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.deps.json
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.runtimeconfig.json
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.dll
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.pdb
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.AssemblyInfo.cs
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.sourcelink.json
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.WeatherMicroservice.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.build.WeatherMicroservice.props
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WeatherMicroservice.props
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WeatherMicroservice.props
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\scopedcss\bundle\WeatherMicroservice.styles.css
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherM.7A2F200A.Up2Date
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.dll
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\refint\WeatherMicroservice.dll
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.pdb
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.genruntimeconfig.cache
+C:\Users\HP\Downloads\Weather Backend\Weather Backend\WeatherMicroservice\WeatherMicroservice\obj\Debug\net8.0\ref\WeatherMicroservice.dll
+C:\CGI\Project\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\appsettings.Development.json
+C:\CGI\Project\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\appsettings.json
+C:\CGI\Project\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.exe
+C:\CGI\Project\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.deps.json
+C:\CGI\Project\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.runtimeconfig.json
+C:\CGI\Project\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.dll
+C:\CGI\Project\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.pdb
+C:\CGI\Project\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\CGI\Project\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CGI\Project\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CGI\Project\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CGI\Project\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.csproj.AssemblyReference.cache
+C:\CGI\Project\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\CGI\Project\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.AssemblyInfoInputs.cache
+C:\CGI\Project\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.AssemblyInfo.cs
+C:\CGI\Project\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.csproj.CoreCompileInputs.cache
+C:\CGI\Project\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\CGI\Project\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\CGI\Project\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.build.json
+C:\CGI\Project\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.development.json
+C:\CGI\Project\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.WeatherMicroservice.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CGI\Project\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.build.WeatherMicroservice.props
+C:\CGI\Project\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WeatherMicroservice.props
+C:\CGI\Project\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WeatherMicroservice.props
+C:\CGI\Project\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.pack.json
+C:\CGI\Project\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\scopedcss\bundle\WeatherMicroservice.styles.css
+C:\CGI\Project\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherM.7A2F200A.Up2Date
+C:\CGI\Project\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.dll
+C:\CGI\Project\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\refint\WeatherMicroservice.dll
+C:\CGI\Project\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.pdb
+C:\CGI\Project\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.genruntimeconfig.cache
+C:\CGI\Project\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\ref\WeatherMicroservice.dll
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\appsettings.Development.json
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\appsettings.json
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.exe
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.deps.json
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.runtimeconfig.json
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.dll
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.pdb
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.csproj.AssemblyReference.cache
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.AssemblyInfoInputs.cache
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.AssemblyInfo.cs
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.csproj.CoreCompileInputs.cache
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.build.json
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.development.json
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.WeatherMicroservice.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.build.WeatherMicroservice.props
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WeatherMicroservice.props
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WeatherMicroservice.props
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\scopedcss\bundle\WeatherMicroservice.styles.css
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherM.7A2F200A.Up2Date
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.dll
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\refint\WeatherMicroservice.dll
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.pdb
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.genruntimeconfig.cache
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\ref\WeatherMicroservice.dll
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project Weather\MICROSERVICES\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.sourcelink.json
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\appsettings.json
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.exe
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.deps.json
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.runtimeconfig.json
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.dll
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.pdb
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.csproj.AssemblyReference.cache
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.AssemblyInfoInputs.cache
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.AssemblyInfo.cs
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.WeatherMicroservice.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.build.WeatherMicroservice.props
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WeatherMicroservice.props
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WeatherMicroservice.props
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\scopedcss\bundle\WeatherMicroservice.styles.css
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherM.7A2F200A.Up2Date
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.dll
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\refint\WeatherMicroservice.dll
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.pdb
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.genruntimeconfig.cache
+C:\Users\hshem\Desktop\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\ref\WeatherMicroservice.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\appsettings.json
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.exe
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.deps.json
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.runtimeconfig.json
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.pdb
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.csproj.AssemblyReference.cache
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.AssemblyInfoInputs.cache
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.AssemblyInfo.cs
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.WeatherMicroservice.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.build.WeatherMicroservice.props
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WeatherMicroservice.props
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WeatherMicroservice.props
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\scopedcss\bundle\WeatherMicroservice.styles.css
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherM.7A2F200A.Up2Date
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\refint\WeatherMicroservice.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.pdb
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.genruntimeconfig.cache
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\ref\WeatherMicroservice.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Consul.dll
+C:\Users\hshem\Desktop\Backend_Sakshi_v1\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\appsettings.json
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.exe
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.deps.json
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.runtimeconfig.json
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.pdb
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Consul.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.csproj.AssemblyReference.cache
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.AssemblyInfoInputs.cache
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.AssemblyInfo.cs
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.WeatherMicroservice.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.build.WeatherMicroservice.props
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WeatherMicroservice.props
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WeatherMicroservice.props
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\scopedcss\bundle\WeatherMicroservice.styles.css
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherM.7A2F200A.Up2Date
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\refint\WeatherMicroservice.dll
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.pdb
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.genruntimeconfig.cache
+C:\Users\matha\Downloads\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\ref\WeatherMicroservice.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\appsettings.Development.json
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\appsettings.json
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.exe
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.deps.json
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.runtimeconfig.json
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.pdb
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Consul.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.csproj.AssemblyReference.cache
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.AssemblyInfoInputs.cache
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.AssemblyInfo.cs
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.csproj.CoreCompileInputs.cache
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.build.json
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.development.json
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.WeatherMicroservice.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.build.WeatherMicroservice.props
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WeatherMicroservice.props
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WeatherMicroservice.props
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.pack.json
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\scopedcss\bundle\WeatherMicroservice.styles.css
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherM.7A2F200A.Up2Date
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\refint\WeatherMicroservice.dll
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.pdb
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.genruntimeconfig.cache
+C:\CapstoneProject\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\ref\WeatherMicroservice.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\appsettings.Development.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\appsettings.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.exe
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.deps.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.runtimeconfig.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.pdb
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Consul.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.csproj.AssemblyReference.cache
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.AssemblyInfoInputs.cache
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.AssemblyInfo.cs
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.csproj.CoreCompileInputs.cache
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.build.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.development.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.WeatherMicroservice.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.build.WeatherMicroservice.props
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WeatherMicroservice.props
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WeatherMicroservice.props
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\scopedcss\bundle\WeatherMicroservice.styles.css
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherM.7A2F200A.Up2Date
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\refint\WeatherMicroservice.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.pdb
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.genruntimeconfig.cache
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\Weather_Service\WeatherMicroservice\obj\Debug\net8.0\ref\WeatherMicroservice.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\bin\Debug\net8.0\appsettings.Development.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\bin\Debug\net8.0\appsettings.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.exe
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.deps.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.runtimeconfig.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\bin\Debug\net8.0\WeatherMicroservice.pdb
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\bin\Debug\net8.0\Consul.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.csproj.AssemblyReference.cache
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.AssemblyInfoInputs.cache
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.AssemblyInfo.cs
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.csproj.CoreCompileInputs.cache
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.build.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.development.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.WeatherMicroservice.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.build.WeatherMicroservice.props
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WeatherMicroservice.props
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WeatherMicroservice.props
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\obj\Debug\net8.0\scopedcss\bundle\WeatherMicroservice.styles.css
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\obj\Debug\net8.0\WeatherM.7A2F200A.Up2Date
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\obj\Debug\net8.0\refint\WeatherMicroservice.dll
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.pdb
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\obj\Debug\net8.0\WeatherMicroservice.genruntimeconfig.cache
+D:\Current project status\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend_Sakshi_v2_withConsul\Backend\API_Gateway\WeatherMicroservice\obj\Debug\net8.0\ref\WeatherMicroservice.dll

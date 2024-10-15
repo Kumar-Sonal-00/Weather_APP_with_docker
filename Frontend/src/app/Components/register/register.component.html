@@ -1,0 +1,41 @@
+<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+<div class="parent">
+  <div class="register">
+    <h2>Sign Up</h2>
+
+    <div class="inputBx">
+      <input type="text" [(ngModel)]="registerObj.fullName" placeholder="Full Name" (keydown.enter)="onRegister()">
+    </div>
+
+    <div class="inputBx">
+      <input type="text" [(ngModel)]="registerObj.email" placeholder="Email" (keydown.enter)="onRegister()">
+    </div>
+
+    <div class="inputBx">
+      <input [type]="passwordVisible ? 'text' : 'password'" [(ngModel)]="registerObj.password" placeholder="Password" (keydown.enter)="onRegister()">
+      <button type="button" class="toggle-password" (click)="togglePasswordVisibility()" aria-label="Toggle Password Visibility">
+        <i [class]="!passwordVisible ? 'bx bx-hide' : 'bx bx-show'"></i>
+      </button>
+    </div>
+
+    <div class="inputBx">
+      <input [type]="confirmPasswordVisible ? 'text' : 'password'" [(ngModel)]="registerObj.confirmPassword" placeholder="Confirm Password" (keydown.enter)="onRegister()">
+      <button type="button" class="toggle-confirm-password" (click)="toggleConfirmPasswordVisibility()" aria-label="Toggle Confirm Password Visibility">
+        <i [class]="!confirmPasswordVisible ? 'bx bx-hide' : 'bx bx-show'"></i>
+      </button>
+    </div>
+
+    <div class="inputBx">
+      <input type="button" value="Sign up" (click)="onRegister()">
+    </div>
+    
+    <div class="inputBx">
+      <input type="button" value="Reset" (click)="reset()">
+    </div>
+
+    <div class="links">
+      <a>Already have an account?</a><a href="/login"><span class="underline">Log in</span></a>
+    </div>      
+  </div>
+</div>

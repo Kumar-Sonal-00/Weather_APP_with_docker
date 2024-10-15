@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AuthenticationService.Tests": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
